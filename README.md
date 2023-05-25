@@ -1,4 +1,4 @@
-# python-searchpython-search
+# python-search
 Sequential and Binary Search
 
 Sequential search adalah metode pencarian berurutan yang melibatkan memeriksa setiap elemen dalam daftar secara berurutan sampai elemen yang dicari ditemukan atau mencapai akhir daftar. Dimulai dari elemen pertama, elemen-elemen diurutkan satu per satu hingga elemen yang dicari ditemukan atau mencapai akhir daftar. Sequential search efektif digunakan untuk daftar yang tidak terurut atau memiliki jumlah elemen yang relatif kecil.
